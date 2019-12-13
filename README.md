@@ -3,7 +3,7 @@ At 9/12/2019
 on monday
 
 ### Project Title
-Bikeshare pithon Project .
+Bikeshare pithon  .
 
 ### Description
 The bikeshare python project is intended to help people extract useful information from data about trips in 3 cities (Washington, New York City, and Chicago).
