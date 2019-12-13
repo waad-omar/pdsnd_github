@@ -17,5 +17,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.python.org/2/tutorial/errors.html
 
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
