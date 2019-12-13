@@ -35,7 +35,7 @@ def get_filters():
     valid_days =['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday','All']
     day =input('Please Enter the day or enter All\n').strip().title()
     while day not in valid_days: 
-      print('invalid da!\n')
+      print('invalid day!\n')
       day =input('Please Enter the day or enter All\n').strip().title()
         
     print('-'*40)
@@ -159,7 +159,7 @@ def user_stats(df):
         print ("Count of user gender :\n")
         print(gender_count)
     except:
-        print("There is no gender data in this city")
+        print("No gender data in this city")
 
     # TO DO: Display earliest, most recent, and most common year of birth
     try:
